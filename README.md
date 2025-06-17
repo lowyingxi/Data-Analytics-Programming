@@ -1,3 +1,3 @@
 # Data-Analytics-Programming
 
-<img src="img/*.png" height="600px" >
+<img src="img/1.png" height="600px" >
